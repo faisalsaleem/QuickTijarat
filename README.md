@@ -1,2 +1,2 @@
 # QuickTijarat
-qdadad
+Repo for quicktijarat.com
